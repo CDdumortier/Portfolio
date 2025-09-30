@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useEffect } from 'react';
-import { Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
+import { Routes, Route, Link, useLocation } from 'react-router-dom';
 import './index.css';
 import ProjectDetail from './pages/ProjectDetail';
 import AcademicBackground from './pages/AcademicBackground';
