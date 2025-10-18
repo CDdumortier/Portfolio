@@ -292,15 +292,15 @@ const HomePage = () => (
                 <h4 className="text-xl font-bold text-white mb-2">
                 Single-cell exploration of gonadal somatic cell lineage specification during human sex determination
                 </h4>
-                <p className="text-blue-400 font-semibold">Developmental Cell • Accepted on September 22, 2025 • Published soon</p>
+                <p className="text-blue-400 font-semibold">Developmental Cell • Published on October 9, 2025 • https://doi.org/10.1016/j.devcel.2025.09.011 </p>
               </div>
-              <span className="bg-blue-600/30 text-blue-200 px-3 py-1 rounded-full text-sm">
-                Accepted
+              <span className="bg-emerald-600/30 text-emerald-200 px-3 py-1 rounded-full text-sm">
+                Published
               </span>
             </div>
             
             <p className="text-gray-300 text-sm mb-4">
-              <strong>Authors:</strong> Lardenois A, [...], <span className="text-white font-semibold">Dumortier CD</span>, [...], Chalmel F, Rolland AD
+              <strong>Authors:</strong> Aurélie Lardenois, Antonio Suglia, [...], <span className="text-white font-semibold">Corentin Dumortier</span>, [...], Frédéric Chalmel, Antoine D. Rolland
             </p>
             
             <p className="text-gray-300 mb-4">
